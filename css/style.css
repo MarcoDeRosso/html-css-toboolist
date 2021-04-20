@@ -1,0 +1,58 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.conteiner{
+    margin: 0 auto;
+    width: 1500px;
+}
+
+header{
+    background: white;
+}
+
+#logo-img{
+    height: 50px;
+    vertical-align: middle;
+}
+
+#logo-text{
+    display: inline-block;
+    line-height: 50px;
+}
+
+body{
+    background: lightgrey;
+}
+
+main{
+    height: 10000px;
+    background: white;
+    margin: 40px 100px;
+}
+nav{
+    padding: 20px 75px;
+    border-bottom: 2px solid lightgrey;
+}
+.button{
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+.btask{
+    background: rgb(16, 141, 224);
+    color: white;
+}
+
+.bsection{
+    background: white;
+    color: darkgrey;
+}
