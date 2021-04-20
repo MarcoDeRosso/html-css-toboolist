@@ -28,7 +28,6 @@ body{
 }
 
 main{
-    height: 10000px;
     background: white;
     margin: 40px 100px;
 }
@@ -103,7 +102,7 @@ li{
     height: 25px;
     color: white;
     border:1px solid;
-    border-radius: 10px;
+    border-radius: 20px;
     padding: 5px;
 }
 
